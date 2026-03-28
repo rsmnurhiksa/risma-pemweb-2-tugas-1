@@ -1,1 +1,14 @@
-
+{
+  "name": "api-mahasiswa",
+  "version": "1.0.0",
+  "description": "REST API sederhana menggunakan Express.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "rxxberich",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
