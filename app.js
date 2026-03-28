@@ -7,9 +7,9 @@ app.use(express.json());
 
 // data dummy
 let students = [
-  { id: 1, nama: "Risma", jurusan: "Informatika" },
-  { id: 2, nama: "Haruto", jurusan: "Sistem Informasi" },
-  { id: 3, nama: "Jennie", jurusan: "Teknik Komputer" },
+  { id: 1, nama: "Andi", jurusan: "Informatika" },
+  { id: 2, nama: "Budi", jurusan: "Sistem Informasi" },
+  { id: 3, nama: "Citra", jurusan: "Teknik Komputer" },
 ];
 
 // 1. Home Endpoint
